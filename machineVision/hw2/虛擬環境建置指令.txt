@@ -1,0 +1,16 @@
+建立:
+python -m venv .venv
+(.venv是資料夾名稱)
+
+啟動:
+.venv\Scripts\activate
+
+安裝套件:
+pip install -r requirement.txt
+
+安裝jupyter kernel:
+pip install ipykernel
+python -m ipykernel install --user --name hw2venv --display-name "Python (hw2venv)"
+
+離開虛擬環境:
+deactivate

@@ -1,0 +1,9 @@
+# 基礎影像處理與矩陣運算
+numpy
+opencv-python
+matplotlib
+Pillow
+
+# 深度學習框架 (建議不帶版本號，或指定 CPU/GPU 版本)
+torch
+torchvision
